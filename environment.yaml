@@ -1,0 +1,5 @@
+name: environment-2
+channels:
+  - conda-forge
+  - defaults
+prefix: /opt/miniconda3/envs/environment-2
